@@ -1,0 +1,16 @@
+[2026-06-17 12:36:01] ===== Server Setup Started =====
+[2026-06-17 12:36:01] Creating directories...
+[2026-06-17 12:36:01] Created: config
+[2026-06-17 12:36:01] Created: backup
+[2026-06-17 12:36:01] Directory logs already exists. Skipping.
+[2026-06-17 12:36:01] Created: scripts
+[2026-06-17 12:36:01] Created: data
+[2026-06-17 12:36:01] Creating config files...
+[2026-06-17 12:36:01] Created config: app.yaml
+[2026-06-17 12:36:01] Created config: db.yaml
+[2026-06-17 12:36:01] Created config: server.yaml
+[2026-06-17 12:36:01] Assigning permissions...
+[2026-06-17 12:37:24] User olive — Full access granted
+[2026-06-17 12:37:24] Starting backup...
+[2026-06-17 12:37:24] Backup saved to: backup/2026-06-17_12-37-24
+[2026-06-17 12:37:24] ===== Server Setup Complete =====
